@@ -3,3 +3,14 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    min-height: 100dvh;
+    display: grid;
+    place-items: center;
+}
+
+.wrapper {
+    background-color: azure;
+    padding: 1rem;
+}
